@@ -143,18 +143,6 @@ The results include:
 
 ---
 
-## **Visualization**
-The generated plots include:
-- **Recall Rate Comparison**:
-  ![Recall Rate Comparison](kde_recall_rate_comparison.png)
-  
-- **MAP Comparison**:
-  ![MAP Comparison](kde_map_comparison.png)
-  
-- **MRR Comparison**:
-  ![MRR Comparison](kde_mrr_comparison.png)
-
----
 
 ## **Dependencies**
 - Python 3.8+
